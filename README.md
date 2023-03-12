@@ -1,5 +1,5 @@
 # React-Redux-Toolkit-Simple-Counter
-
+Increment, Decrement and Increment by certain value
 ## Available Scripts
 
 In the project directory, you can run:
