@@ -1,7 +1,7 @@
 # React-Redux-Toolkit-Simple-Counter
 Increment, Decrement and Increment by certain value
 ## Available Scripts
-
+Redux alone Codes are commented, you only need three files with Redux Toolkit ( counterSlice - Counter - Store )
 In the project directory, you can run:
 
 ### `npm start`
